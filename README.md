@@ -28,7 +28,3 @@ The notebook covers:
 * LSTM model building
 * Training and evaluation
 * Forecast visualization
-
----
-
-If you want it even shorter, just say so.
